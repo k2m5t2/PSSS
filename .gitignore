@@ -1,3 +1,10 @@
+# Image Exports
+.gif
+
+# COMSOL model files & results
+.mph
+.vtu
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
